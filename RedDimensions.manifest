@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"03f156c7-86e3-4716-9777-1ebcbab4776b",
+	"author":	"Thomas Axelsson",
+	"description":	{
+		"":	"Changes Sketch dimension color to red"
+	},
+	"version":	"0.0.1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}
